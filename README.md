@@ -1,1 +1,0 @@
-# septima_biblia_privacy_policy
