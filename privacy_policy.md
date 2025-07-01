@@ -1,6 +1,6 @@
 # Política de Privacidade para o Aplicativo Septima Bíblia
 
-**Última atualização:** [Insira a Data de Hoje, ex: 01 de Julho de 2024]
+**Última atualização:** 01 de Julho de 2024
 
 Bem-vindo(a) ao aplicativo Septima Bíblia. A sua privacidade é muito importante para nós. Esta Política de Privacidade explica como coletamos, usamos, compartilhamos e protegemos suas informações quando você utiliza nosso aplicativo.
 
@@ -72,5 +72,5 @@ Podemos atualizar nossa Política de Privacidade periodicamente. Notificaremos v
 
 Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco:
 
-*   **Desenvolvedor:** [Seu Nome ou Nome da Empresa]
-*   **E-mail:** [Seu E-mail de Contato]
+*   **Desenvolvedor:** Septima
+*   **E-mail:** sep7imadev@gmail.com
